@@ -1,0 +1,10 @@
+﻿  aes.cpp
+  ecdh.cpp
+  Server.cpp
+F:\co_so_nganh\7_project2\Project-II\Source\Server\Server.cpp(92,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\co_so_nganh\7_project2\Project-II\Source\Server\Server.cpp(150,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\co_so_nganh\7_project2\Project-II\Source\Server\Server.cpp(272,10): warning C4101: 'buff': unreferenced local variable
+  Generating Code...
+F:\co_so_nganh\7_project2\Project-II\Source\Server\Server.cpp(218): warning C4172: returning address of local variable or temporary: result
+F:\co_so_nganh\7_project2\Project-II\Source\Server\Server.cpp(238): warning C4172: returning address of local variable or temporary: pt
+  Server.vcxproj -> F:\co_so_nganh\7_project2\Project-II\Source\Server\Debug\Server.exe

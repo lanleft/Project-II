@@ -1,0 +1,7 @@
+﻿  MultipleIOCRServer.cpp
+D:\co_so_nganh\5_lap_trinh_mang\Homework08\MultipleIOCRServer\MultipleIOCRServer.cpp(36,2): warning C4091: 'typedef ': ignored on left of 'SocketInfo' when no variable is declared
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 19 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MultipleIOCRServer.vcxproj -> D:\co_so_nganh\5_lap_trinh_mang\Homework08\MultipleIOCRServer\Release\MultipleIOCRServer.exe
