@@ -1,7 +1,0 @@
-﻿  Clients.cpp
-D:\co_so_nganh\5_lap_trinh_mang\Homework08\Clients\Clients.cpp(194,39): warning C4267: '=': conversion from 'size_t' to 'WORD', possible loss of data
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  Clients.vcxproj -> D:\co_so_nganh\5_lap_trinh_mang\Homework08\Clients\Release\Clients.exe

@@ -1,4 +1,0 @@
-lanleft 0
-admin 0
-sonnt 0
-thunv 1

@@ -1,0 +1,13 @@
+﻿  Server.cpp
+D:\co_so_nganh\7_project2\Server\Server.cpp(18,1): warning C4005: 'BUFF_SIZE': macro redefinition
+D:\co_so_nganh\7_project2\Server\Server.cpp(15): message : see previous definition of 'BUFF_SIZE'
+D:\co_so_nganh\7_project2\Server\Server.cpp(38,2): warning C4091: 'typedef ': ignored on left of 'SocketInfo' when no variable is declared
+D:\co_so_nganh\7_project2\Server\Server.cpp(143,35): error C2065: 'IDI_WSAASYNCSELECTSERVER': undeclared identifier
+D:\co_so_nganh\7_project2\Server\Server.cpp(148,42): error C2065: 'IDI_SMALL': undeclared identifier
+D:\co_so_nganh\7_project2\Server\Server.cpp(224,19): error C2039: 'sock': is not a member of 'SocketInfo'
+D:\co_so_nganh\7_project2\Server\Server.cpp(25): message : see declaration of 'SocketInfo'
+D:\co_so_nganh\7_project2\Server\Server.cpp(246,57): error C2660: 'processData': function does not take 4 arguments
+D:\co_so_nganh\7_project2\Server\Server.cpp(40,6): message : see declaration of 'processData'
+D:\co_so_nganh\7_project2\Server\Server.cpp(390,27): error C2065: 'nClients': undeclared identifier
+D:\co_so_nganh\7_project2\Server\Server.cpp(391,22): error C2065: 'nClients': undeclared identifier
+D:\co_so_nganh\7_project2\Server\Server.cpp(392,15): error C2065: 'clients': undeclared identifier

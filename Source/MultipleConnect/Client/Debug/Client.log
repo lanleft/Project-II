@@ -1,0 +1,9 @@
+﻿  aes.cpp
+  Client.cpp
+D:\co_so_nganh\7_project2\Client\Client.cpp(241,39): warning C4267: '=': conversion from 'size_t' to 'WORD', possible loss of data
+D:\co_so_nganh\7_project2\Client\Client.cpp(322,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\co_so_nganh\7_project2\Client\Client.cpp(347,10): warning C4129: ',': unrecognized character escape sequence
+  ecdh.cpp
+  Generating Code...
+D:\co_so_nganh\7_project2\Client\Client.cpp(435): warning C4172: returning address of local variable or temporary: pt
+  Client.vcxproj -> D:\co_so_nganh\7_project2\Client\Debug\Client.exe
